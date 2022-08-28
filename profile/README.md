@@ -61,8 +61,8 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/lokka30/BetterCommandSpy">
-        <img alt="BetterCommandSpy Link" src="https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=BetterCommandSpy&show_owner=true&theme=react" />
+      <a href="https://github.com/ArcanePlugins/BetterCommandSpy">
+        <img alt="BetterCommandSpy Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=BetterCommandSpy&show_owner=true&theme=react" />
       </a>
     </td>
     <td>

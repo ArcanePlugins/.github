@@ -37,8 +37,8 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/lokka30/commanddefender">
-        <img alt="CommandDefender Link" src="https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=CommandDefender&show_owner=true&theme=react" />
+      <a href="https://github.com/ArcanePlugins/commanddefender">
+        <img alt="CommandDefender Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=CommandDefender&show_owner=true&theme=react" />
       </a>
     </td>
     <td>

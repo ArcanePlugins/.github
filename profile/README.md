@@ -11,6 +11,7 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
     <th>✓ Released</th>
     <th>⨯ Work in Progress</th>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/lokka30/LevelledMobs">
@@ -23,6 +24,7 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
       </a>
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/lokka30/Treasury">
@@ -35,6 +37,7 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
       </a>
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/ArcanePlugins/commanddefender">
@@ -47,6 +50,7 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
       </a>
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/ArcanePlugins/SleepFixer">
@@ -54,11 +58,9 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
       </a>
     </td>
     <td>
-      <a href="https://github.com/ArcanePlugins/ArcaneFramework">
-        <img alt="ArcaneFramework Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=ArcaneFramework&show_owner=true&theme=react" />
-      </a>
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/ArcanePlugins/BetterCommandSpy">
@@ -68,12 +70,19 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
     <td>
     </td>
   </tr>
+
   <tr>
-    <td colspan="2">
-      <p>(We have <i>many</i> more plugins planned for the future!)
+    <td>
+      <a href="https://github.com/ArcanePlugins/ArcaneFramework">
+        <img alt="ArcaneFramework Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=ArcaneFramework&show_owner=true&theme=react" />
+      </a>
+    </td>
+    <td>
     </td>
   </tr>
 </table>
+
+(We have *many* more plugins planned for the future!)
   
 <br /><br />
   

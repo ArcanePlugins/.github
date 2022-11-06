@@ -27,8 +27,8 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
 
   <tr>
     <td>
-      <a href="https://github.com/lokka30/Treasury">
-        <img alt="Treasury Link" src="https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=Treasury&show_owner=true&theme=react" />
+      <a href="https://github.com/ArcanePlugins/Treasury">
+        <img alt="Treasury Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Treasury&show_owner=true&theme=react" />
       </a>
     </td>
     <td>

@@ -14,8 +14,8 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
 
   <tr>
     <td>
-      <a href="https://github.com/lokka30/LevelledMobs">
-        <img alt="LevelledMobs Link" src="https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=LevelledMobs&show_owner=true&theme=react" />
+      <a href="https://github.com/ArcanePlugins/LevelledMobs">
+        <img alt="LevelledMobs Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=LevelledMobs&show_owner=true&theme=react" />
       </a>
     </td>
     <td>

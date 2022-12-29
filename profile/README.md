@@ -120,8 +120,6 @@ Supporting ArcanePlugins are the maintainers of our plugins, the volunteer suppo
   
 ## Where can I contact ArcanePlugins to chat or ask for help?
   
-The best place to contact us, by far, is the [ArcanePlugins Discord Server](https://www.discord.io/arcaneplugins).
-  
-Alternatively, you can send a message to [lokka30 on SpigotMC.org](https://www.spigotmc.org/conversations/add?to=lokka30), or [email lokka30](mailto:lokka30@protonmail.com), however, responses via these modes are limited.
+Join the [ArcanePlugins Discord Server](https://discord.gg/HqZwdcJ).
 
 </div>

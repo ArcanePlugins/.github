@@ -58,6 +58,9 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
       </a>
     </td>
     <td>
+      <a href="https://github.com/ArcanePlugins/EntityLabelLib">
+        <img alt="EntityLabelLib Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=EntityLabelLib&show_owner=true&theme=react" />
+      </a>
     </td>
   </tr>
 

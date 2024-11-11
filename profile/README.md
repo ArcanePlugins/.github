@@ -40,8 +40,8 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
 
   <tr>
     <td>
-      <a href="https://github.com/ArcanePlugins/commanddefender">
-        <img alt="CommandDefender Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=CommandDefender&show_owner=true&theme=react" />
+      <a href="https://github.com/ArcanePlugins/BlackWidow">
+        <img alt="BlackWidow Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=BlackWidow&show_owner=true&theme=react" />
       </a>
     </td>
     <td>
@@ -83,6 +83,16 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
     <td>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/ArcanePlugins/CommandDefender">
+        <img alt="CommandDefender Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=CommandDefender&show_owner=true&theme=react" />
+      </a>
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
 
 (We have *many* more plugins planned for the future!)
@@ -115,7 +125,7 @@ Administrators of the organisation:
 </td></tr>
 </table>
   
-#### We also release our own plugins separate from this organisation, such as [SpawnerControl](https://www.spigotmc.org/resources/spawnercontrol.98872/) and [PhantomWorlds](https://www.spigotmc.org/resources/phantomworlds.84099/).
+#### We also release our own plugins separate from this organisation, such as [SpawnerControl](https://www.spigotmc.org/resources/spawnercontrol.98872/).
   
 Supporting ArcanePlugins are the maintainers of our plugins, the volunteer support staff for each of our plugins, contributors for code, documentation, translations, testing, and ideas, bug reporters, donators, and reviewers. There are so many brilliant people in the Minecraft community that have helped us in helping others, far too many for us to list here. We thank you all very much.
   

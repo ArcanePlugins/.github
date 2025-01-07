@@ -19,8 +19,8 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
       </a>
     </td>
     <td>
-      <a href="https://github.com/ArcanePlugins/Polyconomy">
-        <img alt="Polyconomy Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Polyconomy&show_owner=true&theme=react" />
+      <a href="https://github.com/ArcanePlugins/Polyverse">
+        <img alt="Polyverse Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Polyverse&show_owner=true&theme=react" />
       </a>
     </td>
   </tr>
@@ -32,8 +32,16 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
       </a>
     </td>
     <td>
-      <a href="https://github.com/ArcanePlugins/Polyverse">
-        <img alt="Polyverse Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Polyverse&show_owner=true&theme=react" />
+      <a href="https://github.com/ArcanePlugins/Registry">
+        <img alt="Registry Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Registry&show_owner=true&theme=react" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/ArcanePlugins/Polyconomy">
+        <img alt="Polyconomy Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Polyconomy&show_owner=true&theme=react" />
       </a>
     </td>
   </tr>
@@ -44,22 +52,12 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
         <img alt="BlackWidow Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=BlackWidow&show_owner=true&theme=react" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/ArcanePlugins/Registry">
-        <img alt="Registry Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Registry&show_owner=true&theme=react" />
-      </a>
-    </td>
   </tr>
 
   <tr>
     <td>
       <a href="https://github.com/ArcanePlugins/SleepFixer">
         <img alt="SleepFixer Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=SleepFixer&show_owner=true&theme=react" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ArcanePlugins/EntityLabelLib">
-        <img alt="EntityLabelLib Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=EntityLabelLib&show_owner=true&theme=react" />
       </a>
     </td>
   </tr>
@@ -70,27 +68,13 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
         <img alt="BetterCommandSpy Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=BetterCommandSpy&show_owner=true&theme=react" />
       </a>
     </td>
-    <td>
-    </td>
   </tr>
 
   <tr>
     <td>
-      <a href="https://github.com/ArcanePlugins/ArcaneFramework">
-        <img alt="ArcaneFramework Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=ArcaneFramework&show_owner=true&theme=react" />
+      <a href="https://github.com/ArcanePlugins/BlackWidow">
+        <img alt="BlackWidow Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=BlackWidow&show_owner=true&theme=react" />
       </a>
-    </td>
-    <td>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/ArcanePlugins/CommandDefender">
-        <img alt="CommandDefender Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=CommandDefender&show_owner=true&theme=react" />
-      </a>
-    </td>
-    <td>
     </td>
   </tr>
 </table>

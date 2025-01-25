@@ -4,82 +4,29 @@
 
 Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins for Minecraft servers. 
 
-## Check them out!
+## Check them out
 
-<table>
-  <tr>
-    <th>✓ Released</th>
-    <th>⨯ Work in Progress</th>
-  </tr>
+| | |
+| --- | --- |
+| [![LevelledMobs][LEVELLEDMOBS_IMG]][LEVELLEDMOBS] | [![Treasury][TREASURY_IMG]][TREASURY] |
+| [![Polyconomy][POLYCONOMY_IMG]][POLYCONOMY] | [![BlackWidow][BLACKWIDOW_IMG]][BLACKWIDOW] |
+| [![SleepFixer][SLEEPFIXER_IMG]][SLEEPFIXER] | [![PlaytimeStats][PLAYTIMESTATS_IMG]][PLAYTIMESTATS] |
+| [![OnlineRecord][ONLINERECORD_IMG]][ONLINERECORD] | |
 
-  <tr>
-    <td>
-      <a href="https://github.com/ArcanePlugins/LevelledMobs">
-        <img alt="LevelledMobs Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=LevelledMobs&show_owner=true&theme=react" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ArcanePlugins/Polyverse">
-        <img alt="Polyverse Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Polyverse&show_owner=true&theme=react" />
-      </a>
-    </td>
-  </tr>
+## Future Projects
 
-  <tr>
-    <td>
-      <a href="https://github.com/ArcanePlugins/Treasury">
-        <img alt="Treasury Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Treasury&show_owner=true&theme=react" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ArcanePlugins/Registry">
-        <img alt="Registry Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Registry&show_owner=true&theme=react" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/ArcanePlugins/Polyconomy">
-        <img alt="Polyconomy Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Polyconomy&show_owner=true&theme=react" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/ArcanePlugins/BlackWidow">
-        <img alt="BlackWidow Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=BlackWidow&show_owner=true&theme=react" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/ArcanePlugins/SleepFixer">
-        <img alt="SleepFixer Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=SleepFixer&show_owner=true&theme=react" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/ArcanePlugins/BetterCommandSpy">
-        <img alt="BetterCommandSpy Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=BetterCommandSpy&show_owner=true&theme=react" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/ArcanePlugins/BlackWidow">
-        <img alt="BlackWidow Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=BlackWidow&show_owner=true&theme=react" />
-      </a>
-    </td>
-  </tr>
-</table>
+| | |
+| --- | --- |
+| [![Polyverse][POLYVERSE_IMG]][POLYVERSE] | [![Registry][REGISTRY_IMG]][REGISTRY] |
 
 (We have *many* more plugins planned for the future!)
+
+## Archived Projects
+
+| | |
+| --- | --- |
+| [![CommandDefender][COMMANDDEFENDER_IMG]][COMMANDDEFENDER] | [![BetterCommandSpy][BETTERCOMMANDSPY_IMG]][BETTERCOMMANDSPY] |
+| [![PhantomWorlds][PHANTOMWORLDS_IMG]][PHANTOMWORLDS] |  |
   
 <br /><br />
   
@@ -120,3 +67,30 @@ Supporting ArcanePlugins are the maintainers of our plugins, the volunteer suppo
 Join the [ArcanePlugins Discord Server](https://discord.gg/HqZwdcJ).
 
 </div>
+
+***
+
+[LEVELLEDMOBS]: https://github.com/ArcanePlugins/LevelledMobs
+[LEVELLEDMOBS_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=LevelledMobs&show_owner=true&theme=react
+[TREASURY]: https://github.com/ArcanePlugins/Treasury
+[TREASURY_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Treasury&show_owner=true&theme=react
+[POLYCONOMY]: https://github.com/ArcanePlugins/Polyconomy
+[POLYCONOMY_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Polyconomy&show_owner=true&theme=react
+[POLYVERSE]: https://github.com/ArcanePlugins/Polyverse
+[POLYVERSE_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Polyverse&show_owner=true&theme=react
+[REGISTRY]: https://github.com/ArcanePlugins/Registry
+[REGISTRY_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=Registry&show_owner=true&theme=react
+[BLACKWIDOW]: https://github.com/ArcanePlugins/BlackWidow
+[BLACKWIDOW_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=BlackWidow&show_owner=true&theme=react
+[SLEEPFIXER]: https://github.com/ArcanePlugins/SleepFixer
+[SLEEPFIXER_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=SleepFixer&show_owner=true&theme=react
+[PLAYTIMESTATS]: https://github.com/ArcanePlugins/PlaytimeStats
+[PLAYTIMESTATS_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=PlaytimeStats&show_owner=true&theme=react
+[BETTERCOMMANDSPY]: https://github.com/ArcanePlugins/BetterCommandSpy
+[BETTERCOMMANDSPY_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=BetterCommandSpy&show_owner=true&theme=react
+[COMMANDDEFENDER]: https://github.com/ArcanePlugins/CommandDefender
+[COMMANDDEFENDER_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=CommandDefender&show_owner=true&theme=react
+[PHANTOMWORLDS]: https://github.com/lokka30/PhantomWorlds
+[PHANTOMWORLDS_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=PhantomWorlds&show_owner=true&theme=react
+[ONLINERECORD]: https://github.com/ArcanePlugins/OnlineRecord
+[ONLINERECORD_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=OnlineRecord&show_owner=true&theme=react

@@ -21,12 +21,13 @@ Welcome! Our goal is to offer a suite of high-quality, free, and libre plugins f
 
 (We have *many* more plugins planned for the future!)
 
-## Archived Projects
+## Shelved / Archived / Superseded Projects
 
 | | |
 | --- | --- |
 | [![CommandDefender][COMMANDDEFENDER_IMG]][COMMANDDEFENDER] | [![BetterCommandSpy][BETTERCOMMANDSPY_IMG]][BETTERCOMMANDSPY] |
-| [![PhantomWorlds][PHANTOMWORLDS_IMG]][PHANTOMWORLDS] |  |
+| [![PhantomWorlds][PHANTOMWORLDS_IMG]][PHANTOMWORLDS] | [![ENTITYLABELLIB][ENTITYLABELLIB_IMG]][ENTITYLABELLIB] |
+| [![MOBSKULLLIB][MOBSKULLLIB_IMG]][MOBSKULLLIB] | [![PAPISIGNS][PAPISIGNS_IMG]][PAPISIGNS] |
   
 <br /><br />
   
@@ -94,3 +95,9 @@ Join the [ArcanePlugins Discord Server](https://discord.gg/HqZwdcJ).
 [PHANTOMWORLDS_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=lokka30&repo=PhantomWorlds&show_owner=true&theme=react
 [ONLINERECORD]: https://github.com/ArcanePlugins/OnlineRecord
 [ONLINERECORD_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=OnlineRecord&show_owner=true&theme=react
+[ENTITYLABELLIB]: https://github.com/ArcanePlugins/EntityLabelLib
+[ENTITYLABELLIB_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=EntityLabelLib&show_owner=true&theme=react
+[MOBSKULLLIB]: https://github.com/ArcanePlugins/MobSkullLib
+[MOBSKULLLIB_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=MobSkullLib&show_owner=true&theme=react
+[PAPISIGNS]: https://github.com/ArcanePlugins/PAPISigns
+[PAPISIGNS_IMG]: https://github-readme-stats.vercel.app/api/pin/?username=ArcanePlugins&repo=PAPISigns&show_owner=true&theme=react
